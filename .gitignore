@@ -1,0 +1,9 @@
+PopularMovie/*.iml
+PopularMovie/.gradle
+PopularMovie/local.properties
+PopularMovie/.idea/workspace.xml
+PopularMovie/.idea/libraries
+PopularMovie/.DS_Store
+PopularMovie/build
+PopularMovie/captures
+PopularMovie/.externalNativeBuild
